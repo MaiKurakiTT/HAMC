@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HAMC</string>
+    <string name="username">E-mail address</string>
+    <string name="password">*******</string>
+    <string name="register">New here ? Sign Up</string>
+    <string name="notnull">账号或密码不可以为空</string>
+</resources>
