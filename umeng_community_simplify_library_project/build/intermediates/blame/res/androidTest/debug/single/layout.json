@@ -276,12 +276,12 @@
         "source": "/Users/apple/androidsvn/first/HAMC/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_comment_layout.xml"
     },
     {
-        "merged": "/Users/apple/androidsvn/first/HAMC/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_chat_input_view.xml",
-        "source": "/Users/apple/androidsvn/first/HAMC/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_chat_input_view.xml"
-    },
-    {
         "merged": "/Users/apple/androidsvn/first/HAMC/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_guide_activity.xml",
         "source": "/Users/apple/androidsvn/first/HAMC/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_guide_activity.xml"
+    },
+    {
+        "merged": "/Users/apple/androidsvn/first/HAMC/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_chat_input_view.xml",
+        "source": "/Users/apple/androidsvn/first/HAMC/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_chat_input_view.xml"
     },
     {
         "merged": "/Users/apple/androidsvn/first/HAMC/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_login.xml",
